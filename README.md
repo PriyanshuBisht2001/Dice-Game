@@ -10,14 +10,7 @@ This project demonstrates **DOM manipulation, random number generation, and dyna
 ## 🚀 Live Demo
 
 You can play the game here:
-
-```
-(Add your GitHub Pages link here)
-Example:
-https://username.github.io/dicee-game/
-```
-
----
+https://priyanshubisht2001.github.io/Dice-Game/index.html
 
 ## 📸 Preview
 
