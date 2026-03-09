@@ -21,7 +21,7 @@ https://username.github.io/dicee-game/
 
 ## 📸 Preview
 
-<img width="600" alt="Dice Game Screenshot" src="your-screenshot-link-here">
+<img src="https://res.cloudinary.com/dui47pygp/image/upload/v1773072194/dice-game-screenshot-1_vsj7ry.png" width="600" alt="Dice Game Screenshot" src="your-screenshot-link-here">
 
 ---
 
